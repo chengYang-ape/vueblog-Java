@@ -12,7 +12,7 @@
 
 前端开发工具：webstorm
 
-后端开发工具
+后端开发工具：idea
 
 前端地址：https://github.com/chengYang-ape/vueblog-web/tree/master/vueblog-vue
 
